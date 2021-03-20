@@ -1,4 +1,13 @@
 This solution was selected as the winning solution for the Baptist Health Competition.
+
+## Original Contributors
+* [jshields91](https://github.com/jshields91)
+* [michael-houze](https://github.com/michael-houze)
+* [ENeises10](https://github.com/ENeises10)
+* [simonmkay](https://github.com/simonmkay)
+* [BEASTR0Y](https://github.com/BEASTR0Y)
+* [alxbtvsky](https://github.com/alxbtvsky)
+
 ## Scope of Project
 
 The system was completed by November 20th, 2014 and met system requirements in the following areas:
