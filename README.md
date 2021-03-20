@@ -1,6 +1,6 @@
 # Baptist Health Reverse Auctioning System
 
-This was part of a project my team, Cardinal Solutions collaborated together on for our contracted client, Baptist Health's Supply Chain Solution department, as a part of our school curriculum at the University of Louisville.
+This was part of a project my team, Cardinal Solutions collaborated together on for our contracted client, Baptist Health's Supply Chain Solution department, as a part of our school curriculum at the University of Louisville back in 2014.
 
 We treated it like professional part-time work, because that's exactly what it was. None of us had any idea what we were doing back in 2014; we kept overriding each other's work in GitHub, because none of us knew that we didn't know about GitFlow.
 
