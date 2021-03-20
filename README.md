@@ -6,7 +6,7 @@ We treated it like professional part-time work, because that's exactly what it w
 
 Out of the other teams in the class who competed that year, ours was the one chosen. Despite how terrible the user interface looked terrible, because I had no idea what UI/UX designs were at the time.
 
-### I do recall a good majority of the technologies we used, though:
+#### The Technologies I can recall:
 * ASP.NET 4 MVC
 * C# (C-Sharp)
 * CSS (Just plain CSS -- no SCSS or SASS!)
