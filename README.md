@@ -3,13 +3,13 @@ This solution was selected as the winning solution for the Baptist Health Compet
 
 The system was completed by November 20th, 2014 and met system requirements in the following areas:
 
-• Managing Request for Proposals (RFPs)
-• Managing Bidding Offers
-• Registering Vendors
-• Generating Contracts
-• Generating Reports
-• Account Creation & Permissions Management
-• System Accessibility
+* Managing Request for Proposals (RFPs)
+* Managing Bidding Offers
+* Registering Vendors
+* Generating Contracts
+* Generating Reports
+* Account Creation & Permissions Management
+* System Accessibility
 
 A web-based application will be developed that shall be compatible with most web browsers and consist of programming languages, web technologies and a back-end database. This system shall enhance Baptist Health’s ability to leverage its purchasing power by providing an intuitive and interactive platform for vendors to compete for contracts by submitting RFPs.
 Web-Based Application
@@ -17,9 +17,9 @@ Web-Based Application
 We will develop a database driven web application for recording information defined in the scope of project.
 ## Outline of User Rights
 
-• Administrative users will have full access to all sections of the RFP management system.
-• Employees will be designated a modifiable permissions level by system administrators. The permissions level will determine how an employee may interact with the system.
-• Vendors will only have access to view information that is necessary to them conducting business with Baptist Health. Vendors would lack the capability to add, edit, delete, and view information or resources that is not pertinent to or created by the aforementioned. Vendors shan't be able access sensitive information within the system. Vendors shall have the capability to add, edit, and withdraw bids on RFPs to which they were granted access. As implied, Vendors may be granted access by administrators or employees with a sufficient permissions level to view details and place bids on RFPs.
+* Administrative users will have full access to all sections of the RFP management system.
+* Employees will be designated a modifiable permissions level by system administrators. The permissions level will determine how an employee may interact with the system.
+* Vendors will only have access to view information that is necessary to them conducting business with Baptist Health. Vendors would lack the capability to add, edit, delete, and view information or resources that is not pertinent to or created by the aforementioned. Vendors shan't be able access sensitive information within the system. Vendors shall have the capability to add, edit, and withdraw bids on RFPs to which they were granted access. As implied, Vendors may be granted access by administrators or employees with a sufficient permissions level to view details and place bids on RFPs.
 
 ## Managing Request for Proposals (RFPs)
 
@@ -60,22 +60,22 @@ The costs of this system include, but are not limited to, product licensing, req
 
 Whether the client chooses outside hosted or self-hosted, the client will need to provide:
 
-• Domain name acquisition and DNS maintenance. A separate fully-qualified domain name will need to be provided for the web application, separate from the traditional web site.
-• Secure Sockets Layer (SSL) certificate acquisition and renewals. This is recommended, but not required.
-• Microsoft Windows Server-based host
-• Microsoft SQL Server database
-• Bandwidth sufficient to handle performance load
-• Maintenance of server(s) and web application
-• Data validation during implementation phase
-• Web server and database server security
-• Server hardware performance
-• System backups and verification
-• Reliability demands, including but not limited to redundancy
-• The responsibility of providing a balance sheet for the database
-• All implementation costs, including software costs, after the project is completed
-• All maintenance and upkeep of the software and database upon completion of the project
-• The training of any new users who will be working with the web application
-• Any additional features wanted outside of the project will have to be contracted out to another company
+* Domain name acquisition and DNS maintenance. A separate fully-qualified domain name will need to be provided for the web application, separate from the traditional web site.
+* Secure Sockets Layer (SSL) certificate acquisition and renewals. This is recommended, but not required.
+* Microsoft Windows Server-based host
+* Microsoft SQL Server database
+* Bandwidth sufficient to handle performance load
+* Maintenance of server(s) and web application
+* Data validation during implementation phase
+* Web server and database server security
+* Server hardware performance
+* System backups and verification
+* Reliability demands, including but not limited to redundancy
+* The responsibility of providing a balance sheet for the database
+* All implementation costs, including software costs, after the project is completed
+* All maintenance and upkeep of the software and database upon completion of the project
+* The training of any new users who will be working with the web application
+* Any additional features wanted outside of the project will have to be contracted out to another company
 
 ### Self-hosting Client Responsibilities
 
@@ -87,12 +87,12 @@ If a hosting provider is chosen, the customer will be responsible for monthly fe
 
 ### Responsibilities
 
-• Database development
-• Desktop application development
-• Web application development on time and on budget
-• Web server configuration
-• Web application installation and testing during implementation phase
-• Web application documentation
+* Database development
+* Desktop application development
+* Web application development on time and on budget
+* Web server configuration
+* Web application installation and testing during implementation phase
+* Web application documentation
 
 ### Benefits
 
